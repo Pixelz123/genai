@@ -8,5 +8,4 @@ langchain-google-genai
 chromadb
 langchain-chroma
 langchain-text-splitters
-
 langgraph
