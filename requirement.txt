@@ -8,4 +8,6 @@ langchain-google-genai
 chromadb
 langchain-chroma
 langchain-text-splitters
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
 langgraph
